@@ -34,3 +34,6 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Contact Details
 * Email me @akmunywoki@gmail.com
+
+## License
+MIT alisha Kavene 2020
