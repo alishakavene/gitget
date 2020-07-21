@@ -1,6 +1,9 @@
 # Author
 Alisha Kavene
 
+# Description
+This is an app that helps a user to generate a search for their git hub repository. When a user searches for their github page they will find it and be able to view it
+
 # Gitget
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.7.
